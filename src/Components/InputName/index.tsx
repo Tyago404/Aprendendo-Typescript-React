@@ -26,7 +26,7 @@ export function InputName() {
 
         {userName &&(
             <div>
-                <h1>Hello {userName}!</h1>
+                <h1>Hello {userName}!</h1> 
             </div>
         )}
     </>
